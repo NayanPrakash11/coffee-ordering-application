@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\NAYAN\.gradle\caches\transforms-3\94b897ecaae1cd0f8474488146ddf1b4\transformed\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\3089ae728e86a173ab5567809f8e94e9\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\bb7dd2fcd8de3333c78ab0d28904f94a\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\f5f893ac36a0a5f08fa5ffbf0153178d\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\a6b4b7c410eb5164a952e82728a4a935\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\ee3aea3c94b5d1ea471def3a01482175\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\835fa6ec12f3240ef9b7928b0cc0fb72\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\1727d92fa6b5436ab97cd70f61e2e1c2\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\65da1b3b7a286a33aa0e4c47592ee5ac\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\85ad9187720c985e4828b8d99f66e44f\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\17c8b854c608e3eeab1de267c9097c85\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\a7e66daa68aa3bcfd29bd929955460f7\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\f02162a2fcd5b4814734010426f6dfde\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\c9d870177bab276fc7c33d0594153a5a\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\23ba309fadbb1e79978aedcc55ad9a56\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\45d035d1a02c3fd582c1fa35ba458cc9\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\09acb03649e26185db2b3496e41a5b03\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\74c688e3955d6c97219a94eb3b390b70\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\206c4f7fe25df5d8f0623fbd86e8dda9\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\31d9a9f99b80bac00fc54628573e9394\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NAYAN\.gradle\caches\transforms-3\c3ff2d7c959fd087bf0cb4cf25663b2f\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\c8305c7c43d8da9bb91030e79d95e693\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\e03f98b284ec01b130e8a94eaf61c7ef\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\d19a63f9feaac3965514ac63a75f33a5\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NAYAN\.gradle\caches\transforms-3\23b1ceb8e948c4ee3479ab151d08ef1d\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\c25af3945b7d7e435492dd146814b880\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NAYAN\.gradle\caches\transforms-3\7fbaba4578882c77456e0521bcd3b306\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NAYAN\.gradle\caches\transforms-3\51db628cda75ab24d3da269200381e27\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NAYAN\.gradle\caches\transforms-3\982b1651c61a1e43381275001909e25e\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:8:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\NAYAN\.gradle\caches\transforms-3\94b897ecaae1cd0f8474488146ddf1b4\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\NAYAN\.gradle\caches\transforms-3\94b897ecaae1cd0f8474488146ddf1b4\transformed\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\74c688e3955d6c97219a94eb3b390b70\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\74c688e3955d6c97219a94eb3b390b70\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\206c4f7fe25df5d8f0623fbd86e8dda9\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\206c4f7fe25df5d8f0623fbd86e8dda9\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\74c688e3955d6c97219a94eb3b390b70\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.orderapp.LatteActivity
+ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:15:9-60
+	android:name
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:15:19-48
+activity#com.example.orderapp.SummaryActivity
+ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:16:9-53
+	android:name
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:16:19-50
+activity#com.example.orderapp.InfoActivity
+ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:17:9-50
+	android:name
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:17:19-47
+activity#com.example.orderapp.MainActivity
+ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:22:27-74
+provider#com.example.orderapp.Database.OrderProvider
+ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:26:9-29:39
+	android:authorities
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:28:13-55
+	android:exported
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml:27:13-51
+uses-sdk
+INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\NAYAN\.gradle\caches\transforms-3\94b897ecaae1cd0f8474488146ddf1b4\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\NAYAN\.gradle\caches\transforms-3\94b897ecaae1cd0f8474488146ddf1b4\transformed\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\3089ae728e86a173ab5567809f8e94e9\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\3089ae728e86a173ab5567809f8e94e9\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\bb7dd2fcd8de3333c78ab0d28904f94a\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\bb7dd2fcd8de3333c78ab0d28904f94a\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\f5f893ac36a0a5f08fa5ffbf0153178d\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\f5f893ac36a0a5f08fa5ffbf0153178d\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\a6b4b7c410eb5164a952e82728a4a935\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\a6b4b7c410eb5164a952e82728a4a935\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\ee3aea3c94b5d1ea471def3a01482175\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\ee3aea3c94b5d1ea471def3a01482175\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\835fa6ec12f3240ef9b7928b0cc0fb72\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\835fa6ec12f3240ef9b7928b0cc0fb72\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\1727d92fa6b5436ab97cd70f61e2e1c2\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\1727d92fa6b5436ab97cd70f61e2e1c2\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\65da1b3b7a286a33aa0e4c47592ee5ac\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\65da1b3b7a286a33aa0e4c47592ee5ac\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\85ad9187720c985e4828b8d99f66e44f\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\85ad9187720c985e4828b8d99f66e44f\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\17c8b854c608e3eeab1de267c9097c85\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\17c8b854c608e3eeab1de267c9097c85\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\a7e66daa68aa3bcfd29bd929955460f7\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\a7e66daa68aa3bcfd29bd929955460f7\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\f02162a2fcd5b4814734010426f6dfde\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\f02162a2fcd5b4814734010426f6dfde\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\c9d870177bab276fc7c33d0594153a5a\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\c9d870177bab276fc7c33d0594153a5a\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\23ba309fadbb1e79978aedcc55ad9a56\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\23ba309fadbb1e79978aedcc55ad9a56\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\45d035d1a02c3fd582c1fa35ba458cc9\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\45d035d1a02c3fd582c1fa35ba458cc9\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\09acb03649e26185db2b3496e41a5b03\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\09acb03649e26185db2b3496e41a5b03\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\74c688e3955d6c97219a94eb3b390b70\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\74c688e3955d6c97219a94eb3b390b70\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\206c4f7fe25df5d8f0623fbd86e8dda9\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\206c4f7fe25df5d8f0623fbd86e8dda9\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\31d9a9f99b80bac00fc54628573e9394\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\31d9a9f99b80bac00fc54628573e9394\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NAYAN\.gradle\caches\transforms-3\c3ff2d7c959fd087bf0cb4cf25663b2f\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\NAYAN\.gradle\caches\transforms-3\c3ff2d7c959fd087bf0cb4cf25663b2f\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\c8305c7c43d8da9bb91030e79d95e693\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\c8305c7c43d8da9bb91030e79d95e693\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\e03f98b284ec01b130e8a94eaf61c7ef\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\e03f98b284ec01b130e8a94eaf61c7ef\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\d19a63f9feaac3965514ac63a75f33a5\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\d19a63f9feaac3965514ac63a75f33a5\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NAYAN\.gradle\caches\transforms-3\23b1ceb8e948c4ee3479ab151d08ef1d\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\NAYAN\.gradle\caches\transforms-3\23b1ceb8e948c4ee3479ab151d08ef1d\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\c25af3945b7d7e435492dd146814b880\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\NAYAN\.gradle\caches\transforms-3\c25af3945b7d7e435492dd146814b880\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NAYAN\.gradle\caches\transforms-3\7fbaba4578882c77456e0521bcd3b306\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\NAYAN\.gradle\caches\transforms-3\7fbaba4578882c77456e0521bcd3b306\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NAYAN\.gradle\caches\transforms-3\51db628cda75ab24d3da269200381e27\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\NAYAN\.gradle\caches\transforms-3\51db628cda75ab24d3da269200381e27\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NAYAN\.gradle\caches\transforms-3\982b1651c61a1e43381275001909e25e\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\NAYAN\.gradle\caches\transforms-3\982b1651c61a1e43381275001909e25e\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\nayan\D data\CoffeeOrderApp-master\CoffeeOrderApp-master\app\src\main\AndroidManifest.xml
